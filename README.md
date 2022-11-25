@@ -1,8 +1,8 @@
 
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
+1. [Installation](#installation-1)
+2. [Project Motivation](#motivation-test)
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
